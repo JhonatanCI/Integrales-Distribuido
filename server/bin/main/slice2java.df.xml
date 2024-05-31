@@ -1,0 +1,17 @@
+<state>
+  <timestamp value='1713236704758' />
+  <sourceSet name='default'>
+    <source name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\Printer.ice'>
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\Response.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\Callback.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\Request.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\Printer.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\CallbackPrx.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\_CallbackPrxI.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\PrinterPrx.java' />
+      <file name='C:\Users\jhona\OneDrive\Documentos\Icesi\Ing soft IV\helloworld-ret_Prueba\helloworld-ret_Prueba\server\build\generated-src\Demo\_PrinterPrxI.java' />
+    </source>
+    <arg value='C:\Program Files\ZeroC\Ice-3.7.10\\bin\slice2java.exe' />
+    <arg value='-IC:\Program Files\ZeroC\Ice-3.7.10\\slice' />
+  </sourceSet>
+</state>

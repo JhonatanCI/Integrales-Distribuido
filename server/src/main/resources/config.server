@@ -1,0 +1,13 @@
+#
+# The server creates one single object adapter with the name
+# "Hello". The following line sets the endpoints for this
+# adapter.
+#
+Printer.Endpoints=tcp -p 9011
+#
+# Only listen on the ZeroTier's LIASOn1 interface by default.
+#
+Ice.Default.Host=xhgrid10
+# Archivo de configuración config.server
+Ice.ThreadPool.Server.Size=5  # Número de hilos en el pool
+Ice.ThreadPool.Server.SizeMax=10  # Número máximo de hilos en el pool
